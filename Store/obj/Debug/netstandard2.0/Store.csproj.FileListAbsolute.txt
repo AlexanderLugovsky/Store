@@ -1,0 +1,9 @@
+C:\Users\RainPRG\source\repos\Store\Store\bin\Debug\netstandard2.0\Store.deps.json
+C:\Users\RainPRG\source\repos\Store\Store\bin\Debug\netstandard2.0\Store.dll
+C:\Users\RainPRG\source\repos\Store\Store\bin\Debug\netstandard2.0\Store.pdb
+C:\Users\RainPRG\source\repos\Store\Store\obj\Debug\netstandard2.0\Store.csprojAssemblyReference.cache
+C:\Users\RainPRG\source\repos\Store\Store\obj\Debug\netstandard2.0\Store.AssemblyInfoInputs.cache
+C:\Users\RainPRG\source\repos\Store\Store\obj\Debug\netstandard2.0\Store.AssemblyInfo.cs
+C:\Users\RainPRG\source\repos\Store\Store\obj\Debug\netstandard2.0\Store.csproj.CoreCompileInputs.cache
+C:\Users\RainPRG\source\repos\Store\Store\obj\Debug\netstandard2.0\Store.dll
+C:\Users\RainPRG\source\repos\Store\Store\obj\Debug\netstandard2.0\Store.pdb

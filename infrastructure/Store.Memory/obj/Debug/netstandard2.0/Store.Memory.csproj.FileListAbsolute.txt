@@ -1,0 +1,12 @@
+C:\Users\RainPRG\source\repos\Store\infrastructure\Store.Memory\bin\Debug\netstandard2.0\Store.Memory.deps.json
+C:\Users\RainPRG\source\repos\Store\infrastructure\Store.Memory\bin\Debug\netstandard2.0\Store.Memory.dll
+C:\Users\RainPRG\source\repos\Store\infrastructure\Store.Memory\bin\Debug\netstandard2.0\Store.Memory.pdb
+C:\Users\RainPRG\source\repos\Store\infrastructure\Store.Memory\bin\Debug\netstandard2.0\Store.dll
+C:\Users\RainPRG\source\repos\Store\infrastructure\Store.Memory\bin\Debug\netstandard2.0\Store.pdb
+C:\Users\RainPRG\source\repos\Store\infrastructure\Store.Memory\obj\Debug\netstandard2.0\Store.Memory.csprojAssemblyReference.cache
+C:\Users\RainPRG\source\repos\Store\infrastructure\Store.Memory\obj\Debug\netstandard2.0\Store.Memory.AssemblyInfoInputs.cache
+C:\Users\RainPRG\source\repos\Store\infrastructure\Store.Memory\obj\Debug\netstandard2.0\Store.Memory.AssemblyInfo.cs
+C:\Users\RainPRG\source\repos\Store\infrastructure\Store.Memory\obj\Debug\netstandard2.0\Store.Memory.csproj.CoreCompileInputs.cache
+C:\Users\RainPRG\source\repos\Store\infrastructure\Store.Memory\obj\Debug\netstandard2.0\Store.Memory.csproj.CopyComplete
+C:\Users\RainPRG\source\repos\Store\infrastructure\Store.Memory\obj\Debug\netstandard2.0\Store.Memory.dll
+C:\Users\RainPRG\source\repos\Store\infrastructure\Store.Memory\obj\Debug\netstandard2.0\Store.Memory.pdb
