@@ -6,9 +6,18 @@ namespace Store
 {
     public class BookService
     {
-        public Book [] GatAllByQuery(string query)
+        private readonly IBookRepository bookRepository;
+        public BookService(IBookRepository bookRepository)
         {
-            throw new NotImplementedException();
+            this.bookRepository = bookRepository;
+        }
+        public Book[] GatAllByQuery(string query)
+        {
+            if (Book.IsIsbn(query))
+                return bookRepository.GetAllByIsbn(query);
+            return bookRepository.GetAllByTitleOrAuthor(query);
+
+
         }
     }
 }

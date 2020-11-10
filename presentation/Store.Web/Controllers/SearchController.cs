@@ -10,7 +10,7 @@ namespace Store.Web.Controllers
     {
         private readonly BookService bookService;
 
-        public SearchController(IBookRepository bookRepository)
+        public SearchController(BookService bookService)
         {
             this.bookService = bookService;
         }
