@@ -18,7 +18,6 @@ C:\Users\RainPRG\source\repos\Store\presentation\Store.Web\obj\Debug\netcoreapp3
 C:\Users\RainPRG\source\repos\Store\presentation\Store.Web\obj\Debug\netcoreapp3.1\Store.Web.TagHelpers.output.cache
 C:\Users\RainPRG\source\repos\Store\presentation\Store.Web\obj\Debug\netcoreapp3.1\Store.Web.RazorCoreGenerate.cache
 C:\Users\RainPRG\source\repos\Store\presentation\Store.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\RainPRG\source\repos\Store\presentation\Store.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\RainPRG\source\repos\Store\presentation\Store.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\RainPRG\source\repos\Store\presentation\Store.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\RainPRG\source\repos\Store\presentation\Store.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -113,3 +112,4 @@ C:\Users\RainPRG\source\repos\Store\presentation\Store.Web\obj\Debug\netcoreapp3
 C:\Users\RainPRG\source\repos\Store\presentation\Store.Web\obj\Debug\netcoreapp3.1\Razor\Views\Search\Index.cshtml.g.cs
 C:\Users\RainPRG\source\repos\Store\presentation\Store.Web\bin\Debug\netcoreapp3.1\Store.Memory.dll
 C:\Users\RainPRG\source\repos\Store\presentation\Store.Web\bin\Debug\netcoreapp3.1\Store.Memory.pdb
+C:\Users\RainPRG\source\repos\Store\presentation\Store.Web\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
